@@ -1,0 +1,7 @@
+{
+  "prompt": "Wide-angle editorial illustration, cinematic lighting. A very long wooden banquet table stretches across the entire image from left to right. On the far left, a very large crowd of people are tightly packed together, sharing a single small plate of food, their faces tired and drawn. On the far right, a single well-dressed person sits alone with an enormous overflowing feast that covers a large portion of the table. The table visually connects both sides in one continuous line. The left side of the image is in deep shadow with cold desaturated blue-grey tones, while the right side is bathed in warm golden light. The mood should feel heavy, imbalanced, and morally unsettling. Editorial illustration style, photorealistic textures, dramatic shadows, high detail. No text, no numbers, no labels, no symbols, no charts, no mathematical elements.",
+  "model": "Gemini Images (Banana)",
+  "dataset_name": "Global Wealth Distribution",
+  "dataset_url": "https://wid.world/",
+  "insight": "A tiny minority holds the majority of resources while the vast majority share very little, despite being part of the same system."
+}
